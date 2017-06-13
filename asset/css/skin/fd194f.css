@@ -1,0 +1,6 @@
+.guide-bg::after{
+    background-color: rgba(253, 25, 79, 0.6);
+}
+.swiper-slide h1{
+    color: #fd194f;
+}
